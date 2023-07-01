@@ -42,26 +42,26 @@ web_scraping(url)
 ![[Pasted image 20230630233527.png]]
 ![Texto alternativo](Pasted%20image%2020230630233540.png)
 
-![Texto alternativo](Pasted%20image%20230630233540.png)
+![Texto alternativo](Pasted%20image%2020230630233540.png)
 
 - Debe ingresar al menos 10K documentos.
-![Texto alternativo](Pasted%20image%20230630233855.png)
+![Texto alternativo](Pasted%20image%2020230630233855.png)
 
 ### REPLICAS
 
 Se crearon tres bases de datos la primera base de datos llamada **target** y **source1**, **source2** 
 
 * Base de datos **target**
-![Texto alternativo](Pasted%20image%20230630234209.png)
+![Texto alternativo](Pasted%20image%2020230630234209.png)
 * Base de datos **source1**
-![Texto alternativo](Pasted%20image%20230630234234.png)
+![Texto alternativo](Pasted%20image%2020230630234234.png)
 * Base de datos **source2**
-![Texto alternativo](Pasted%20image%20230630234334.png)
+![Texto alternativo](Pasted%20image%2020230630234334.png)
 * Modelo de replicas
-![Texto alternativo](Pasted%20image%20230630234433.png)
-![Texto alternativo](Pasted%20image%20230630234727.png)
-![Texto alternativo](Pasted%20image%20230630234737.png)
-![Texto alternativo](Pasted%20image%20230630234746.png)
+![Texto alternativo](Pasted%20image%2020230630234433.png)
+![Texto alternativo](Pasted%20image%2020230630234727.png)
+![Texto alternativo](Pasted%20image%2020230630234737.png)
+![Texto alternativo](Pasted%20image%2020230630234746.png)
 
 * Hamachi
-![Texto alternativo](Pasted%20image%20230630234836.png)
+![Texto alternativo](Pasted%20image%2020230630234836.png)
