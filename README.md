@@ -40,7 +40,7 @@ web_scraping(url)
 * El JSOn conformado para almacenarlo en CouchDB debe tener dos campos adicionales, uno con su nombre y otro con su apellido.
 
 ![[Pasted image 20230630233527.png]]
-Pasted image 20230630233527.png
+![Texto alternativo](Pasted%20image%2020230630233540.png)
 
 ![[Pasted image 20230630233540.png]]
 
