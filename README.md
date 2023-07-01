@@ -4,6 +4,8 @@
 - Juan Gualotuña
 - Heyer Tinoco
 
+  LINK DE YOUTUBE: https://www.youtube.com/watch?v=kwAoLjbFRiY
+
 Utilizando conexiones remotas crear un video detallado de la elaboración de los esquemas propuestos, utilizando web scraping  en páginas de una misma temática, por ejemplo, computadoras, juegos, deportes, ect. Almacenar dicha información en CouchDB.
 
 * Generar una función de consulta
